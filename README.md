@@ -1,4 +1,4 @@
-#taptap-commander
+#commander-tabtab
 
 Tab/Auto Completion for Commander.js CLIs.
 
@@ -26,7 +26,7 @@ Simple!
 
 ##Installation
 
-*Sorry wording isn't brilliant. If you need a hand drop me a note. @bencevans on [Twitter](http://twitter.com/bencevans) and [GitHub](http://github.com/bencevans). You can find my email on my GitHub profile.*
+*Use the example as a reference however if you need a hand drop me a note. @bencevans on [Twitter](http://twitter.com/bencevans) and [GitHub](http://github.com/bencevans). You can find my email on my GitHub profile.*
 
 ####Codebase
 
