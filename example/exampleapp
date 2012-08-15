@@ -1,0 +1,43 @@
+#!/usr/bin/env node
+
+var program = require('commander'),
+taptapCommander = require('commander-tabtab');
+
+
+program
+    .version('0.0.1')
+    // .version generates -v and --v to echo the version number
+
+program
+    .command('hello')
+    .description('Some description of hello')
+    .action(function(dir){
+
+       //Some Functionailty.
+
+    });
+
+program
+    .command('helllllooooooo')
+    .description('Some description of helllllooooooo')
+    .action(function(dir){
+
+       //Some Functionailty.
+
+    });
+
+program
+    .command('world')
+    .description('Some description of world')
+    .action(function(dir){
+
+       //Some Functionailty.
+
+    });
+
+//taptapCommander.init() Must occur before your program.parse function.
+taptapCommander.init(program, 'exampleapp');
+
+program.parse(argv);
+
+// For the results of this please look at the README.md File.
