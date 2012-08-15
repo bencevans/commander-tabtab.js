@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bencevans/commander-tabtab.git"
+    "url": "git://github.com/bencevans/commander-tabtab.js.git"
   },
   "keywords": [
     "tab",

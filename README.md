@@ -5,7 +5,7 @@ Tab/Auto Completion for Commander.js CLIs.
 
 ##Example
 
-Look at the code of the Example App @ [/examples/exampleapp](https://github.com/bencevans/commander-tabtab/blob/master/example/exampleapp)
+Look at the code of the Example App @ [/examples/exampleapp](https://github.com/bencevans/commander-tabtab.js/blob/master/example/exampleapp)
 
 If installed properly and you entered `exampleapp` and striked tab you would get…
 
@@ -50,4 +50,4 @@ Done.
 ##In The Wild
 [npunch](https://github.com/bencevans/npunch) - NodeJS WebApp Development Hostbox Thing.
 
-[Add Yours](https://github.com/bencevans/commander-tabtab/issues/new?title=[PROJECT%20NAME]+We're+using+this+project!&body=[LINK%20TO%20PROJECT])
+[Add Yours](https://github.com/bencevans/commander-tabtab.js/issues/new?title=[PROJECT%20NAME]+We're+using+this+project!&body=[LINK%20TO%20PROJECT])
