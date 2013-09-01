@@ -1,10 +1,10 @@
 {
   "name": "commander-tabtab",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Tab/Auto Completion for Commander.js CLIs",
   "main": "index.js",
-  "directories" : {
-    "lib" : "./lib"
+  "directories": {
+    "lib": "./lib"
   },
   "dependencies": {
     "tabtab": "~0.0.2"
